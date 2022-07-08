@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I use IDCloudHost. I bought one of the VPS servers from here and i set a tunneling server to access my stuffs that were behind CGNAT.  
+I use IDCloudHost. I bought one of the VPS servers from here and i set a tunneling server (frp) to access my stuffs that were behind CGNAT.  
 I also rip firmwares from many cell phones.
 
 #### IDCloudHost (ID Only): 
-https://my.idcloudhost.com/aff.php?aff=10231
-
-#### for Cloud VPS:
+https://my.idcloudhost.com/aff.php?aff=10231  
+#### IDCloudHost Cloud VPS (ID Only):
 https://console.idcloudhost.com/referral/gr48j7
 
 <!--
