@@ -5,6 +5,8 @@ I also rip firmwares from many cell phones.
 
 #### Donate:
 https://saweria.co/dffn3  
+#### Donate via PayPal:  
+https://paypal.me/daffinbastian  
 #### IDCloudHost: 
 https://my.idcloudhost.com/aff.php?aff=10231  
 #### IDCloudHost Cloud VPS:
