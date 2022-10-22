@@ -7,10 +7,13 @@ I also rip firmwares from many cell phones.
 https://saweria.co/dffn3  
 #### Donate via PayPal:  
 https://paypal.me/daffinbastian  
-#### IDCloudHost: 
+### Affiliates
+#### IDCloudHost (I've got the domains and VPS from here): 
 https://my.idcloudhost.com/aff.php?aff=10231  
-#### IDCloudHost Cloud VPS:
+#### IDCloudHost Cloud VPS (I've also use this VPS from the same service):
 https://console.idcloudhost.com/referral/gr48j7
+#### UptimeRobot (The PRO plan is cheap!)
+https://uptimerobot.com/?rid=38f5d209d4582f
 
 <!--
 **Crawlerop/Crawlerop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
